@@ -15,4 +15,15 @@ JS / TS / JAVA / PHP / DART / KOTLIN / C / C++ / PYTHON / BALLERINA / MONGO DB /
 <a href="https://github.com/asmohamedfaheemanver" target="_blank"><img src="https://raw.githubusercontent.com/asmohamedfaheemanver/asmohamedfaheemanver/master/git.png" alt="GitHub" width="30"></a>
 <a href="https://mohamedfaheem.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/asmohamedfaheemanver/asmohamedfaheemanver/master/www.png" alt="Website" width="30"></a>
 
-![Profile views](https://gpvc.arturio.dev/asmohamedfaheemanver?v=3)
+<!-- ![Request views increment](http://localhost:3000/views/increase) -->
+<!-- ![Profile views per day](http://localhost:3000/views/day) -->
+<!-- ![Profile views per month](http://localhost:3000/views/month) -->
+<!-- ![Profile views per year](http://localhost:3000/views/year) -->
+<!-- ![Profile views per total](http://localhost:3000/views/total) -->
+<!--
+![](http://localhost:3000/views/day)
+![](http://localhost:3000/views/month)
+![](http://localhost:3000/views/year) -->
+
+![](https://freedom-view-counter.herokuapp.com/views/increase)
+![](https://freedom-view-counter.herokuapp.com/views/total)
