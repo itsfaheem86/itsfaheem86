@@ -8,7 +8,7 @@ I have always been hard working and goal's focused with proven results.
 
 #### TECH STACK
 
-JS / TS / JAVA / PHP / DART / KOTLIN / C / C++ / PYTHON / BALLERINA / MONGO DB / MYSQL / FIREBASE / ELASTIC SEARCH / BLOCK CHAIN / KIBANA / NODE JS / ANGULAR / REACT / FLUTTER / REDUX / REACT NATIVE / SPRING / SPRING BOOT / OPENCV / BOOSTRAP / JEST / JQUERY / ANDROID STUDIO / GIT / REST API / GRAPHQL / SASS / CSS / HTML / TEMPLATE ENGINEs / NGINX / PM2 / REDIS / REBBITMQ / DOCKER / KUBERNETES / GOOGLE APIs
+JS / TS / JAVA / PHP / DART / KOTLIN / C / C++ / PYTHON / BALLERINA / MONGO DB / MYSQL / FIREBASE / ELASTIC SEARCH / BLOCK CHAIN / KIBANA / NODE JS / ANGULAR / REACT / FLUTTER / REDUX / REACT NATIVE / SPRING / SPRING BOOT / OPENCV / BOOSTRAP / JEST / JQUERY / ANDROID STUDIO / GIT / REST API / GRAPHQL / SASS / CSS / HTML / TEMPLATE ENGINEs / NGINX / PM2 / REDIS / RABBITMQ / DOCKER / KUBERNETES / GOOGLE APIs
 
 <a href="https://www.facebook.com/jstr.faheemanver/" target="_blank"><img src="https://raw.githubusercontent.com/asmohamedfaheemanver/asmohamedfaheemanver/master/fb.png" alt="Facebook" width="30"></a>
 <a href="https://www.linkedin.com/in/abdul-saleem-mohamed-faheem/" target="_blank"><img src="https://raw.githubusercontent.com/asmohamedfaheemanver/asmohamedfaheemanver/master/in.png" alt="LinkedIn" width="30"></a>
@@ -20,10 +20,9 @@ JS / TS / JAVA / PHP / DART / KOTLIN / C / C++ / PYTHON / BALLERINA / MONGO DB /
 <!-- ![Profile views per month](http://localhost:3000/views/month) -->
 <!-- ![Profile views per year](http://localhost:3000/views/year) -->
 <!-- ![Profile views per total](http://localhost:3000/views/total) -->
-<!--
-![](http://localhost:3000/views/day)
-![](http://localhost:3000/views/month)
-![](http://localhost:3000/views/year) -->
 
-![](https://freedom-view-counter.herokuapp.com/views/increase)
+![](https://freedom-view-counter.herokuapp.com/views/day)
+![](https://freedom-view-counter.herokuapp.com/views/month)
+![](https://freedom-view-counter.herokuapp.com/views/year)
 ![](https://freedom-view-counter.herokuapp.com/views/total)
+![](https://freedom-view-counter.herokuapp.com/views/increase)
