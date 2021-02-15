@@ -10,10 +10,7 @@ I have always been hard working and goal's focused with proven results.
 
 JS / TS / JAVA / PHP / DART / KOTLIN / C / C++ / PYTHON / BALLERINA / MONGO DB / MYSQL / FIREBASE / ELASTIC SEARCH / BLOCK CHAIN / KIBANA / NODE JS / ANGULAR / REACT / FLUTTER / REDUX / REACT NATIVE / SPRING / SPRING BOOT / OPENCV / BOOSTRAP / JEST / JQUERY / ANDROID STUDIO / GIT / REST API / GRAPHQL / SASS / CSS / HTML / TEMPLATE ENGINEs / NGINX / PM2 / REDIS / RABBITMQ / DOCKER / KUBERNETES / GOOGLE APIs
 
-<a href="https://www.facebook.com/jstr.faheemanver/" target="_blank"><img src="https://raw.githubusercontent.com/asmohamedfaheemanver/asmohamedfaheemanver/master/fb.png" alt="Facebook" width="30"></a>
-<a href="https://www.linkedin.com/in/abdul-saleem-mohamed-faheem/" target="_blank"><img src="https://raw.githubusercontent.com/asmohamedfaheemanver/asmohamedfaheemanver/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://github.com/asmohamedfaheemanver" target="_blank"><img src="https://raw.githubusercontent.com/asmohamedfaheemanver/asmohamedfaheemanver/master/git.png" alt="GitHub" width="30"></a>
-<a href="https://mohamedfaheem.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/asmohamedfaheemanver/asmohamedfaheemanver/master/www.png" alt="Website" width="30"></a>
+#### PROFILE VIEWS
 
 <!-- ![Request views increment](http://localhost:3000/views/increase) -->
 <!-- ![Profile views per day](http://localhost:3000/views/day) -->
@@ -26,3 +23,10 @@ JS / TS / JAVA / PHP / DART / KOTLIN / C / C++ / PYTHON / BALLERINA / MONGO DB /
 ![](https://freedom-view-counter.herokuapp.com/views/year)
 ![](https://freedom-view-counter.herokuapp.com/views/total)
 ![](https://freedom-view-counter.herokuapp.com/views/increase)
+
+#### CONTACT INFO
+
+<a href="https://www.facebook.com/jstr.faheemanver/" target="_blank"><img src="https://raw.githubusercontent.com/asmohamedfaheemanver/asmohamedfaheemanver/master/fb.png" alt="Facebook" width="30"></a>
+<a href="https://www.linkedin.com/in/abdul-saleem-mohamed-faheem/" target="_blank"><img src="https://raw.githubusercontent.com/asmohamedfaheemanver/asmohamedfaheemanver/master/in.png" alt="LinkedIn" width="30"></a>
+<a href="https://github.com/asmohamedfaheemanver" target="_blank"><img src="https://raw.githubusercontent.com/asmohamedfaheemanver/asmohamedfaheemanver/master/git.png" alt="GitHub" width="30"></a>
+<a href="https://mohamedfaheem.netlify.app/" target="_blank"><img src="https://raw.githubusercontent.com/asmohamedfaheemanver/asmohamedfaheemanver/master/www.png" alt="Website" width="30"></a>
