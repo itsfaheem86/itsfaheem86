@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-<img src="https://wallpapercave.com/wp/wp6222547.png" alt="Banner">
+<img src="https://github.com/ASMohamedFaheemAnver/ASMohamedFaheemAnver/blob/master/banner.png" alt="Banner">
 
 I'm Mohamed Faheem and I'm a full stack web / mobile developer.
 I have been working in various fields, starting from blockchain, microservices and ending with prototyping.
