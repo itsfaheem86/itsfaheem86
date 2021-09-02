@@ -2,13 +2,13 @@
 
 <img src="https://github.com/ASMohamedFaheemAnver/ASMohamedFaheemAnver/blob/master/banner.png" alt="Banner">
 
-I'm Mohamed Faheem and I'm a full stack web / mobile developer.
+I'm Mohamed Faheem and a full stack web / mobile developer.
 I have been working in various fields, starting from blockchain, microservices and ending with prototyping.
 I have always been hard working and goal's focused with proven results.
 
 #### TECH STACK
 
-JS / TS / JAVA / PHP / DART / KOTLIN / C / C++ / PYTHON / BALLERINA / MONGO DB / MYSQL / FIREBASE / ELASTIC SEARCH / BLOCK CHAIN / KIBANA / NODE JS / ANGULAR / REACT / FLUTTER / REDUX / REACT NATIVE / SPRING / SPRING BOOT / OPENCV / BOOSTRAP / JEST / JQUERY / ANDROID STUDIO / GIT / REST API / GRAPHQL / SASS / CSS / HTML / TEMPLATE ENGINEs / NGINX / PM2 / REDIS / RABBITMQ / DOCKER / KUBERNETES / GOOGLE APIs
+JS / TS / JAVA / DART / KOTLIN / PYTHON / BALLERINA / MONGO DB / MYSQL / FIREBASE / ELASTIC SEARCH / BLOCK CHAIN / KIBANA / EXPRESS JS / NEST JS / APOLLO GRAPHQL / NEXT JS / ANGULAR / REACT / FLUTTER / REDUX / REACT NATIVE / SPRING / SPRING BOOT / OPENCV / BOOSTRAP / JEST / JQUERY / ANDROID STUDIO / GIT / REST API / GRAPHQL / SASS / CSS / HTML / TEMPLATE ENGINEs / NGINX / PM2 / REDIS / RABBITMQ / DOCKER / KUBERNETES / GOOGLE APIs
 
 #### PROFILE VIEWS
 
