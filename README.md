@@ -12,17 +12,17 @@ JS / TS / JAVA / DART / KOTLIN / PYTHON / BALLERINA / MONGO DB / MYSQL / FIREBAS
 
 #### PROFILE VIEWS
 
-<!-- ![Request views increment](http://localhost:3000/views/increase) -->
-<!-- ![Profile views per day](http://localhost:3000/views/day) -->
-<!-- ![Profile views per month](http://localhost:3000/views/month) -->
-<!-- ![Profile views per year](http://localhost:3000/views/year) -->
-<!-- ![Profile views per total](http://localhost:3000/views/total) -->
+<!-- ![](http://localhost:3000/views/increase)
+![Profile views per day](http://localhost:3000/views/day)
+![Profile views per month](http://localhost:3000/views/month)
+![Profile views per year](http://localhost:3000/views/year)
+![Profile views per total](http://localhost:3000/views/total) -->
 
 ![](https://freedom-view-counter.herokuapp.com/views/day)
 ![](https://freedom-view-counter.herokuapp.com/views/month)
 ![](https://freedom-view-counter.herokuapp.com/views/year)
 ![](https://freedom-view-counter.herokuapp.com/views/total)
-![](https://freedom-view-counter.herokuapp.com/views/increase)
+![](https://freedom-view-counter.herokuapp.com/views/record)
 
 #### CONTACT INFO
 
