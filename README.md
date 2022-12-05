@@ -18,11 +18,11 @@ JS / TS / JAVA / DART / KOTLIN / PYTHON / BALLERINA / MONGO DB / MYSQL / FIREBAS
 ![Profile views per year](http://localhost:3000/views/year)
 ![Profile views per total](http://localhost:3000/views/total) -->
 
-![](https://freedom-view-counter.herokuapp.com/views/day)
-![](https://freedom-view-counter.herokuapp.com/views/month)
-![](https://freedom-view-counter.herokuapp.com/views/year)
-![](https://freedom-view-counter.herokuapp.com/views/total)
-![](https://freedom-view-counter.herokuapp.com/views/record)
+![](https://freedom-github-view-counter.as.r.appspot.com/views/day)
+![](https://freedom-github-view-counter.as.r.appspot.com/views/month)
+![](https://freedom-github-view-counter.as.r.appspot.com/views/year)
+![](https://freedom-github-view-counter.as.r.appspot.com/views/total)
+![](https://freedom-github-view-counter.as.r.appspot.com/views/record)
 
 #### CONTACT INFO
 
