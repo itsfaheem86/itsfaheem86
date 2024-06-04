@@ -3,7 +3,6 @@
 <img src="https://github.com/ASMohamedFaheemAnver/ASMohamedFaheemAnver/blob/master/banner.png" alt="Banner">
 
 I'm Mohamed Faheem and a full stack web / mobile developer.
-I have been working in various fields, starting from blockchain, microservices and ending with prototyping.
 I have always been hard working and goal's focused with proven results.
 
 #### TECH STACK
