@@ -1,13 +1,13 @@
 ### Hi! 👋
 
-<img src="https://github.com/ASMohamedFaheemAnver/ASMohamedFaheemAnver/blob/master/banner.png" alt="Banner">
+<img src="https://raw.githubusercontent.com/asmohamedfaheemanver/asmohamedfaheemanver/master/banner.png" alt="Banner">
 
 I'm Mohamed Faheem and a full stack web / mobile developer.
 I have always been hard working and goal's focused with proven results.
 
 #### TECH STACK
 
-JS / TS / GO / JAVA / SWIFT / MONGO DB / MYSQL / FIREBASE / EXPRESS JS / NEST JS / APOLLO GRAPHQL / NEXT JS / REACT / REDUX / REACT NATIVE / BOOSTRAP / JEST / JQUERY / ANDROID STUDIO / XCODE / GIT / REST API / GRAPHQL / SASS / CSS / HTML / TEMPLATE ENGINEs / NGINX / PM2 / REDIS / RABBITMQ / DOCKER / KUBERNETES / GOOGLE APIs
+JS / TS / GO / JAVA / KOTLIN / SWIFT / MONGO DB / MYSQL / FIREBASE / EXPRESS JS / NEST JS / APOLLO GRAPHQL / NEXT JS / REACT / REDUX / REACT NATIVE / BOOSTRAP / JEST / JQUERY / ANDROID STUDIO / XCODE / GIT / REST API / GRAPHQL / SASS / CSS / HTML / TEMPLATE ENGINEs / NGINX / PM2 / REDIS / RABBITMQ / DOCKER / KUBERNETES / GOOGLE APIs
 
 #### PROFILE VIEWS
 
